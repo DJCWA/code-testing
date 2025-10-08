@@ -4,10 +4,13 @@
 "description": "",
 "main": "index.js",
 "scripts": {
-"test": "jest"
+"test": "jest",
+"start"; :node ."
 },
 "keywords": [],
 "author": "Daniel",
-"license": "ISC"
+"license": "ISC",
+"devDependencies": {
+   "jest"; "^20.7.0"}
 } 
 
