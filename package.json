@@ -5,12 +5,13 @@
 "main": "index.js",
 "scripts": {
 "test": "jest",
-"start": :node ."
+"start": "node ."
 },
 "keywords": [],
 "author": "Daniel",
 "license": "ISC",
 "devDependencies": {
-   "jest": "^20.7.0"}
+   "jest": "^20.7.0" 
+   }
 } 
 
