@@ -11,7 +11,7 @@
 "author": "Daniel",
 "license": "ISC",
 "devDependencies": {
-   "jest": "^20.7.0" 
+   "jest": "^29.7.0" 
    }
 } 
 
